@@ -1,0 +1,42 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.christmas",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"newyear1",
+         "name":"New Year 1",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"4thofjuly1",
+         "name":"4th of July 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"4thofjuly2",
+         "name":"4th of July 2",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"easter",
+         "name":"Happy Easter",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"christmas1",
+         "name":"Christmas 1",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"christmas2",
+         "name":"Christmas 2",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      }
+   ]
+}
