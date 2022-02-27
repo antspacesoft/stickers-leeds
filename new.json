@@ -9,6 +9,12 @@
          "stickers":"30"
       },
       {
+         "identifier":"bielsa1",
+         "name":"Marcelo Bielsa",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"premier2122f22",
          "name":"vs West Ham",
          "animated_sticker_pack":false,
@@ -61,12 +67,6 @@
          "name":"vs Watford",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },
-      {
-         "identifier":"bielsa1",
-         "name":"Marcelo Bielsa",
-         "animated_sticker_pack":false,
-         "stickers":"27"
       },
       {
          "identifier":"club1",
