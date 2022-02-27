@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bielsa2",
+         "name":"Thanks Bielsa",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"bielsa1",
+         "name":"Marcelo Bielsa",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"newyear2022",
          "name":"New Year 2022",
          "animated_sticker_pack":false,
