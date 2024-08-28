@@ -1,0 +1,336 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.leeds",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"euro2024s1",
+         "name":"vs Netherlands",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024c1",
+         "name":"vs Switzerland",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024o1",
+         "name":"vs Slovakia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024fg1",
+         "name":"vs Serbia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024goal1",
+         "name":"England Goal",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"euro2024team1",
+         "name":"Team Euro 2024",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"championship2324s2",
+         "name":"vs Norwich",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kit2324",
+         "name":"Kit 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"team2023",
+         "name":"Team 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"premier2223f7",
+         "name":"vs Notthingham",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"premier2223f15",
+         "name":"vs Bournemouth",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"premier2223f14",
+         "name":"vs Liverpool",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"efl2223f32",
+         "name":"vs Barnsley",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"premier2223f3",
+         "name":"vs Chelsea",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"premier2223f1",
+         "name":"vs Wolves",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022o4a",
+         "name":"England vs Senegal (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022o4b",
+         "name":"England vs Senegal (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GBwalesvsengland",
+         "name":"England vs Wales",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GBenglandvsusa",
+         "name":"England vs USA",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GBenglandvsiran",
+         "name":"England vs Iran",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022england2",
+         "name":"Qatar 2022 England 1",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2022england3",
+         "name":"Qatar 2022 England 2",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"worldcup2022aaronramsdale",
+         "name":"Aaron Ramsdale",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022benwhite",
+         "name":"Ben White",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022bukayosaka",
+         "name":"Bukayo Saka",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022conorgallagher",
+         "name":"Conor Gallagher",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022masonmount",
+         "name":"Mason Mount",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"worldcup2022jordanhenderson",
+         "name":"Jordan Henderson",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022trentalexanderarnold",
+         "name":"Trent Alexander Arnold",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },  
+      {
+         "identifier":"worldcup2022callumwilson",
+         "name":"Callum Wilson",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"worldcup2022kierantrippier",
+         "name":"Kieran Trippier",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022nickpope",
+         "name":"Nick Pope",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },    
+      {
+         "identifier":"worldcup2022ericdier",
+         "name":"Eric Dier",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022harrykane",
+         "name":"Harry Kane",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"premier2122f38",
+         "name":"vs Brentford",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      }, 
+      {
+         "identifier":"emojis1",
+         "name":"Emojis 1",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"premier2122f32",
+         "name":"vs Watford",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"premier2122f30",
+         "name":"vs Wolves",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"premier2122f29",
+         "name":"vs Norwich",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"bielsa2",
+         "name":"Thanks Bielsa",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"bielsa1",
+         "name":"Marcelo Bielsa",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"premier2122f22",
+         "name":"vs West Ham",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"premier2122f21",
+         "name":"vs Burnley",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"newyear2022",
+         "name":"New Year 2022",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"premier2122f14",
+         "name":"vs Crystal Palace",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"premier2122f10",
+         "name":"vs Norwich",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"patrickbamford1",
+         "name":"Patrick Bamford",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"goal2021",
+         "name":"Goal 2021",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animated1",
+         "name":"Animated 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"premier2122f7",
+         "name":"vs Watford",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"club1",
+         "name":"Club",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"escudos1",
+         "name":"Logo",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"players2021a",
+         "name":"Players 2021 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"players2021b",
+         "name":"Players 2021 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"players2021c",
+         "name":"Players 2021 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      }
+   ]
+}
