@@ -7,13 +7,19 @@
          "name":"Kit Home 25-26",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },
+      }, 
       {
          "identifier":"kit2526b",
          "name":"Kit Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"21"
       },
+      {
+         "identifier":"kit2526c",
+         "name":"Kit Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },           
       {
          "identifier":"kit2425a",
          "name":"Kit Home 24-25",
